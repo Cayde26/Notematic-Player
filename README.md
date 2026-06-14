@@ -3,11 +3,11 @@
 <div align="center">
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/notematic-player?style=for-the-badge&logo=modrinth&color=24b47e)](https://modrinth.com/plugin/notematic-player)
-[![Minecraft Version Support](https://img.shields.io/badge/Minecraft-1.20.6%20--%201.26.x-blue?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
+[![Minecraft Version Support](https://img.shields.io/badge/Minecraft-1.20.6%20--%2026.1.x-blue?style=for-the-badge&logo=minecraft)](https://www.minecraft.net/)
 [![Server Software](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur%20%7C%20Spigot-gold?style=for-the-badge)](https://papermc.io)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](#)
 
-A high-performance Minecraft Java plugin designed as the companion playback engine for **Notematic Studio**. It plays custom note block music sequences exported from the studio in `.mcfunction` or `.json` formats, extending standard note blocks to play any in-game `/playsound` audio (including custom resource pack sounds) directly.
+A high-performance Minecraft Java plugin (Paper/Spigot 1.20.6 / 1.21 - 26.1.x) designed as the companion playback engine for **Notematic Studio**. It plays custom note block music sequences exported from the studio in `.mcfunction` or `.json` formats, extending standard note blocks to play any in-game `/playsound` audio (including custom resource pack sounds) directly.
 
 </div>
 
